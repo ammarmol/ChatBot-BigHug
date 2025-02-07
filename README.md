@@ -2,7 +2,7 @@
 
 ## This is documentation related to BigHug's Bot
 
-This code has been developed with the (Telegram API)[https://core.telegram.org/bots/api]
+This code has been developed with the [Telegram API](https://core.telegram.org/bots/api)
 
 The directory `streamlitweb` contains the website developed for the gamification of the use of the bot.
 
